@@ -1,0 +1,56 @@
+##Basic Conf
+
+baseURL = 'https://asilva.fr'
+languageCode = 'fr-fr'
+defaultContentLanguage = 'fr'
+title = 'Alejo SILVA - Bientôt disponible!'
+theme = "hugo-goa-master"
+author = "Alejo SILVA"
+
+[params]
+author = "Alejo (a-lè-kho)"
+intro = "Ingénieur test & validation"
+description = "_Pedes in terra ad sidera visus_"
+authorimage = "alejio2.jpeg"
+#dateformat = "DD/MM/YYYY"
+enableRobotsTXT= true
+
+## Site Meta Settings
+[params.meta]
+description = "Site perso alessio"
+keywords = "QA, testing, automatisation, innovation, agilité"
+
+## Social Accounts
+[params.social]
+email = "alejo@asilva.fr"
+twitter = "https://x.com/algabsil"
+
+## Main Menu
+[[menu.main]]
+name = "Posts"
+weight = 100
+identifier = "posts"
+url = "posts/"
+[[menu.main]]
+name = "About me"
+identifier = "about"
+weight = 200
+url = "about/"
+# [[menu.main]]
+# name = "projects"
+# identifier = "projects"
+# weight = 300
+# url = "projects/"
+
+[privacy]
+	[privacy.googleAnalytics]
+		anonymizeIP = true
+		
+## Extras
+[params.extra]
+copyright = "© 2026. Alejo SILVA. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = false
+highlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = true

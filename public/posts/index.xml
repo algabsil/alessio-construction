@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Alejo SILVA - Bientôt disponible!</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Alejo SILVA - Bientôt disponible!</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 21 Dec 2025 07:07:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primo</title>
+      <link>http://localhost:1313/posts/first/</link>
+      <pubDate>Sun, 21 Dec 2025 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/first/</guid>
+      <description>&lt;h2 id=&#34;quest-ce-que-le-lorem-ipsum&#34;&gt;Qu&amp;rsquo;est-ce que le Lorem Ipsum?&lt;/h2&gt;&#xA;&lt;p&gt;Le &lt;code&gt;Lorem Ipsum&lt;/code&gt; est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l&amp;rsquo;imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n&amp;rsquo;a pas fait que survivre cinq siècles, mais s&amp;rsquo;est aussi adapté à la bureautique informatique, sans que son contenu n&amp;rsquo;en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
