@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://asilva.fr/about/</loc>
     <lastmod>2025-12-22T21:07:09+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://asilva.fr/</loc>
     <lastmod>2025-12-22T21:07:09+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://asilva.fr/posts/</loc>
     <lastmod>2025-12-21T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/first/</loc>
+    <loc>https://asilva.fr/posts/first/</loc>
     <lastmod>2025-12-21T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://asilva.fr/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://asilva.fr/tags/</loc>
   </url>
 </urlset>
