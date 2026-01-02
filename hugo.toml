@@ -23,7 +23,7 @@ keywords = "QA, testing, automatisation, innovation, agilité"
 ## Social Accounts
 [params.social]
 email = "alejo@asilva.fr"
-twitter = "https://x.com/algabsil"
+twitter = "x.com/algabsil"
 
 ## Main Menu
 [[menu.main]]
