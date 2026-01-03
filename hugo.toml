@@ -1,6 +1,6 @@
 ##Basic Conf
 
-baseURL = 'https://asilva.fr'
+baseURL = 'https://asilva.fr/'
 languageCode = 'fr-fr'
 defaultContentLanguage = 'fr'
 title = 'Alejo SILVA - Bientôt disponible!'
