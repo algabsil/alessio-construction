@@ -3,7 +3,7 @@
 baseURL = 'https://asilva.fr/'
 languageCode = 'fr-fr'
 defaultContentLanguage = 'fr'
-title = 'Alejo SILVA - Bientôt disponible!'
+title = 'Alejo SILVA'
 theme = "hugo-goa-master"
 author = "Alejo SILVA"
 
@@ -23,7 +23,7 @@ keywords = "QA, testing, automatisation, innovation, agilité"
 ## Social Accounts
 [params.social]
 email = "alejo@asilva.fr"
-twitter = "x.com/algabsil"
+twitter = "algabsil"
 
 ## Main Menu
 [[menu.main]]
